@@ -1,1 +1,7 @@
-Criando projeto para consultar a previsão do tempo via API. Realizado dentro do bootcamp everis FullStack Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
+# API com Angular
+
+## Projeto para consultar a previsão do tempo via API desenvolvido com Angular e TypeScript
+
+## 💻️Angular 💻️Typescript
+
+### MIT License
